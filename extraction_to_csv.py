@@ -1,5 +1,3 @@
-import glob                 # used to check CSV files exist
-import os.path              # used to check CSV files exist
 import re                   # used to find words that are uppercase characters
 import time                 # used to time the program throughout
 import pandas as pd
