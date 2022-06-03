@@ -5,7 +5,7 @@ Little script to assist you in solving Wordle.
 ------------------
 
 "extract_to_csv.py" - is used to:
-1) extract the list of words from the "Websters_Unabridged_Dictionary.txt" file.
+1) extract the list of words from the "Websters_Unabridged_Dictionary.zip" file.
 2) these words are grouped by word length and entered into a CSV file based on that word length.
 
 Note:
