@@ -33,17 +33,11 @@ def create_data_csv_letters(df: pd):
             df3.to_csv(folder_location + csv_output_file, index=False)
         max_word_length -= 1
 
-
-
-start_timestamp = time.time()                                      # Get a timestamp of the start of the program
-start_extracting_timestamp = time.time()
-print(start_extracting_timestamp)
-folder_location = "data/"                                               # used in other .py files
-csv_files = glob.glob(os.path.join(folder_location, '*.csv'))           # Get list of all CSV files in directory
-
+        
+start_extracting_timestamp = time.time()            # Get a timestamp of the start of the program, housekeeping purposes
+folder_location = "data/"
 input_text_file = "Websters_Unabridged_Dictionary.txt"  # use this dictionary file
 data_words = get_words_from_text_dictionary(folder_location + input_text_file, ["word"])
-print(data_words)
 create_data_csv_letters(data_words)
 
 extracting_time_taken = time.time() - start_extracting_timestamp
