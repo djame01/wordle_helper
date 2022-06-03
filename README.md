@@ -1,6 +1,10 @@
 # wordle_helper
 
 Little script to assist you in solving Wordle.
+You should unzip the:
+"data/Websters_Unabridged_Dictionary.zip"
+to:
+data/Websters_Unabridged_Dictionary.txt
 
 ------------------
 
