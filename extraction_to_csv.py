@@ -40,6 +40,3 @@ create_data_csv_letters(data_words)
 
 extracting_time_taken = time.time() - start_extracting_timestamp
 print(f'Extracting data process took (seconds): {extracting_time_taken}')  # Print time taken for program to execute
-
-
-#%%
