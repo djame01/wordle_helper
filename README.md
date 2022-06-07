@@ -1,5 +1,16 @@
 # wordle_helper
 
+
+
+
+![occurrences of words5in length](https://user-images.githubusercontent.com/57063906/172482410-075c4fba-c7df-4489-83db-c57c1b3791d1.png)
+
+
+
+
+
+
+
 Little script to assist you in solving Wordle.
 You should unzip the:
 "data/Websters_Unabridged_Dictionary.zip"
