@@ -3,8 +3,7 @@
 
 
 
-![occurrences of words5in length](https://user-images.githubusercontent.com/57063906/172482410-075c4fba-c7df-4489-83db-c57c1b3791d1.png)
-
+![image](https://user-images.githubusercontent.com/57063906/172482878-2a43468e-8cea-4a74-a417-db19329d63e3.png)
 
 
 
