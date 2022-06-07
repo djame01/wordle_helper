@@ -10,7 +10,6 @@
 
 
 
-
 Little script to assist you in solving Wordle.
 You should unzip the:
 "data/Websters_Unabridged_Dictionary.zip"
