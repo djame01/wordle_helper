@@ -1,12 +1,6 @@
 # wordle_helper
 (click on image to expand)
-
-
-![occurrences of words5in length](https://user-images.githubusercontent.com/57063906/172483003-b582e956-d0cd-4672-9a76-65078c9348e2.png)
-
-
-
-
+![occurrences of words_5_in length](https://user-images.githubusercontent.com/57063906/172483458-0fcd320f-c396-42e4-8d1a-11a45cb20f7f.png)
 
 
 Little script to assist you in solving Wordle.
