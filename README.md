@@ -1,9 +1,8 @@
 # wordle_helper
 
 
+![occurrences of words5in length](https://user-images.githubusercontent.com/57063906/172483003-b582e956-d0cd-4672-9a76-65078c9348e2.png)
 
-
-![image](https://user-images.githubusercontent.com/57063906/172482878-2a43468e-8cea-4a74-a417-db19329d63e3.png)
 
 
 
