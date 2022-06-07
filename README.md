@@ -1,4 +1,5 @@
 # wordle_helper
+(click on image to expand)
 
 
 ![occurrences of words5in length](https://user-images.githubusercontent.com/57063906/172483003-b582e956-d0cd-4672-9a76-65078c9348e2.png)
